@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="architecture.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4010"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4010-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4010-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4010-44"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99"
+     inkscape:cx="728.91521"
+     inkscape:cy="781.95351"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1470"
+     inkscape:window-height="956"
+     inkscape:window-x="200"
+     inkscape:window-y="167"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.12987018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987"
+       width="339.89795"
+       height="134.89795"
+       x="19.693886"
+       y="83.484642" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="190"
+       y="112.36218"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="192.77344"
+         y="112.36218"
+         style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Pre-processing </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44.462402"
+       y="161.07646"
+       id="text2993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="44.462402"
+         y="161.07646"
+         style="font-size:18px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3001">Cost:</tspan> Laplacian Deformation Energy</tspan><tspan
+         sodipodi:role="line"
+         x="44.462402"
+         y="183.57646"
+         id="tspan2997"
+         style="font-size:18px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3003">Constraint:</tspan> Link Length</tspan><tspan
+         sodipodi:role="line"
+         x="44.462402"
+         y="206.07646"
+         id="tspan2999"
+         style="font-size:18px" /></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.09237957;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-1"
+       width="357.50687"
+       height="270.36401"
+       x="502.17514"
+       y="7.537324" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="690"
+       y="52.362183"
+       id="text2989-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991-0"
+         x="690"
+         y="52.362183"
+         style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Optimization for retargeting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="530"
+       y="102.36218"
+       id="text2993-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2995-1"
+         x="530"
+         y="102.36218"
+         style="font-size:18px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3001-1">Cost:</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="124.86218"
+         style="font-size:18px"
+         id="tspan3037"> - Laplacian Deformation Energy</tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="147.36218"
+         style="font-size:18px"
+         id="tspan3039"> - Sum of marker set acceleration</tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="169.86218"
+         style="font-size:18px"
+         id="tspan3041" /><tspan
+         sodipodi:role="line"
+         x="530"
+         y="192.36218"
+         id="tspan2997-9"
+         style="font-size:18px"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan3003-8">Constraints:</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="214.86218"
+         style="font-size:18px"
+         id="tspan3047"> - Link Length</tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="237.36218"
+         style="font-size:18px"
+         id="tspan3049"> - Joints position, velocity, torque limits</tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="259.86218"
+         style="font-size:18px"
+         id="tspan3051"> - Robot dynamic balance</tspan><tspan
+         sodipodi:role="line"
+         x="530"
+         y="282.36218"
+         id="tspan2999-3"
+         style="font-size:18px" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.38925624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 358.02652,151.36831 141.79346,0.56457"
+       id="path3053"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.02921486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M -82.01064,151.7848 18,152.36218"
+       id="path3053-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-90"
+       y="132.36218"
+       id="text4653"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4655"
+         x="-90"
+         y="132.36218">marker positions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="380"
+       y="132.36218"
+       id="text4653-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4655-9"
+         x="380"
+         y="132.36218">marker positions</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.19662857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 863.50164,153.78906 118.41465,0.57143"
+       id="path3053-8-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="870"
+       y="132.36218"
+       id="text4653-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4655-1"
+         x="870"
+         y="132.36218">marker positions</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.6828835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4708"
+       width="229.21167"
+       height="126.70663"
+       x="987.49432"
+       y="96.574532" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1100"
+       y="132.36218"
+       id="text4710"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4712"
+         x="1100"
+         y="132.36218"
+         style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Post-processing</tspan><tspan
+         sodipodi:role="line"
+         x="1100"
+         y="157.36218"
+         style="font-size:20px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan3040" /><tspan
+         sodipodi:role="line"
+         x="1102.4961"
+         y="180.69104"
+         style="font-size:18px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans"
+         id="tspan3038">Motion conversion to </tspan><tspan
+         sodipodi:role="line"
+         x="1100"
+         y="203.19104"
+         style="font-size:18px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans"
+         id="tspan3027">robot</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.02921486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M 1217.9894,151.7848 1318,152.36218"
+       id="path3053-8-2-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1230"
+       y="132.36218"
+       id="text4653-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1230"
+         y="132.36218"
+         id="tspan4744"
+         style="font-size:14px">joint trajectory</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3029"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3031"><rect
+           id="rect3033"
+           width="250"
+           height="150"
+           x="1009.2857"
+           y="123.07647" /></flowRegion><flowPara
+         id="flowPara3035" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3042"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3044"><rect
+           id="rect3046"
+           width="269.69696"
+           height="181.81818"
+           x="992.92932"
+           y="105.89754" /></flowRegion><flowPara
+         id="flowPara3048"></flowPara></flowRoot>  </g>
+</svg>
